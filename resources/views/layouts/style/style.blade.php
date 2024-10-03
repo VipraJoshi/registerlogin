@@ -15,7 +15,7 @@
     }
     #logintoggleEye{
         position: absolute;
-        top: 33%;
+        top: 33%; 
         right: 6%;
         cursor: pointer;
     }
